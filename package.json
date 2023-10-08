@@ -1,0 +1,33 @@
+{
+  "name": "rn-easy-snackbars",
+  "version": "1.0.0",
+  "description": "An easy way to add snackbars to your React Native App. Configure once and use anywhere.",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Ruzsicska/rn-easy-snackbars.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "rn",
+    "snackbar",
+    "mobile",
+    "popup",
+    "toast",
+    "mobile"
+  ],
+  "author": "Alex Ruzsicska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Ruzsicska/rn-easy-snackbars/issues"
+  },
+  "homepage": "https://github.com/Alex-Ruzsicska/rn-easy-snackbars#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.72.5"
+  }
+}
